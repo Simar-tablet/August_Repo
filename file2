@@ -1,2 +1,5 @@
 this is file 2
+<<<<<< HEAD
 this is file 2 new
+=======
+>>>>>>> branch1
